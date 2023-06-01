@@ -10,7 +10,7 @@ The car can have many ECU's, from the engine to sensors in the backseat.
 On the top of CAN bus, is the OBG-II and this protocol is responsible to take the CAN bus data and transforms into a common API to share data about the current state of the car. There is a fews categories including historical data, current data, diagnostics about issues, etc.
 The OBD-II has a connector where we can connect a device to start gathering some data.
 #### PIDS
-The OBD protocol stream different types of data, which differs based on a identifier code, this identifier code is called *pid*.
+The OBD protocol stream different types of data, which differs based on a identifier code, this identifier code is called *pid*. The types of pids and when is available or not, depends on the model and the manufacture.
 
 Reference:
 
