@@ -11,6 +11,7 @@ On the top of CAN bus, is the OBG-II and this protocol is responsible to take th
 The OBD-II has a connector where we can connect a device to start gathering some data.
 #### PIDS
 The OBD protocol stream different types of data, which differs based on a identifier code, this identifier code is called *pid*. The types of pids and when is available or not, depends on the model and the manufacture.
+OBD-II allows only to read data from the car, using a analogy, it works like a web server, where we ask for a resource using the url, in this case a pid, and, if exist, the serve returns the resource, the car returns the related information.
 
 Reference:
 
