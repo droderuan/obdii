@@ -15,5 +15,5 @@ OBD-II allows only to read data from the car, using a analogy, it works like a w
 
 Reference:
 
-Playlist about CAN bus and  OBD-II: https://www.youtube.com/watch?v=oYps7vT708E&list=PLpV68vjf4Xo4vZ_SjJ6tTlomYm-k18vDZ
-React Native with OBD2: https://star.global/posts/react-native-for-automotive/
+* Playlist about CAN bus and  OBD-II: https://www.youtube.com/watch?v=oYps7vT708E&list=PLpV68vjf4Xo4vZ_SjJ6tTlomYm-k18vDZ
+* React Native with OBD2: https://star.global/posts/react-native-for-automotive/
